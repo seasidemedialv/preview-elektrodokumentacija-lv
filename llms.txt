@@ -1,0 +1,110 @@
+# Elektrodokumentācija
+
+> Elektroinstalācijas mērījumi un dokumentācija Rīgā un Pierīgā: pārbaudes akti, dokumenti nodošanai ekspluatācijā, izpildshēmas, Sadales tīkla dokumenti un atzinumi.
+
+## Primary Pages
+
+- [Elektroinstalācijas dokumentācija Rīgā](https://elektrodokumentacija.lv/) - Elektroinstalācijas dokumentācija mājām un uzņēmumiem Rīgā un Pierīgā: mērījumi, akti, izpildshēma, papīri būvvaldei un Sadales tīklam. Apsekošana 40 €.
+- [Elektroinstalācijas dokumentācijas pakalpojumi](https://elektrodokumentacija.lv/pakalpojumi/) - Elektroinstalācijas dokumentācijas pakalpojumi: mērījumi, papīri būvvaldei, Sadales tīklam un saules paneļiem, atzinumi. Rīga, Pierīga, apsekošana 40 €.
+- [Elektroinstalācijas pārbaudes cenas](https://elektrodokumentacija.lv/cenas/) - Elektroinstalācijas pārbaudes cenas: dzīvoklim no 170 €, privātmājai ar dokumentiem no 230 €, atzinums no 180 €. Rīga un Pierīga, apsekošana 40 €.
+- [Elektroinstalācijas dokumentācija Rīgā un Pierīgā](https://elektrodokumentacija.lv/pilsetas/) - Elektroinstalācijas dokumentācija pēc vietas: Rīgas apkaimes un pilsētas ap Rīgu, kur veicam mērījumus un sagatavojam papīrus. Apsekošana 40 €.
+- [Par Elektrodokumentāciju](https://elektrodokumentacija.lv/par-mums/) - Par mums: mērījumi, pārbaudes akti un papīri būvvaldei un Sadales tīklam esošai elektroinstalācijai Rīgā un Pierīgā. Publiskas cenas, apsekošana 40 €.
+- [Kontakti](https://elektrodokumentacija.lv/kontakti/) - Kontakti: pieteikuma forma elektroinstalācijas mērījumiem un dokumentiem Rīgā un Pierīgā. Pēc formas aizpildīšanas sazināmies 5 minūšu laikā.
+
+## Services
+
+- [Elektroinstalācijas pārbaude](https://elektrodokumentacija.lv/merijumi/) - Elektroinstalācijas pārbaude: izolācija, cilpa fāze-nulle, zemējums un RCD ar aktu dzīvoklim vai mājai Rīgā un Pierīgā, no 170 €. Sazināmies 5 minūšu laikā.
+- [Mājas nodošana ekspluatācijā](https://elektrodokumentacija.lv/nodosana-ekspluatacija/) - Mājas nodošana ekspluatācijā, elektrība: mērījumi, izpildshēma un pārbaudes dokumentācija būvvaldei Rīgā un Pierīgā, no 230 €. Sazināmies 5 minūšu laikā.
+- [Sadales tīkla dokumenti pieslēgumam](https://elektrodokumentacija.lv/sadales-tikls/) - Sadales tīkla dokumenti pieslēgumam: apliecinājums e-st.lv, instalācijas pārbaude klienta pusē, Rīgā un Pierīgā, cena pēc apsekošanas. Sazināmies 5 minūšu laikā.
+- [Saules paneļu nodošana ekspluatācijā](https://elektrodokumentacija.lv/saules-paneli/) - Saules paneļu nodošana ekspluatācijā: apliecinājums Sadales tīklam, invertora protokols, 11,1 kW robeža, Rīgā, cena pēc apsekošanas. Sazināmies 5 minūšu laikā.
+- [Elektroinstalācijas atzinums](https://elektrodokumentacija.lv/atzinumi/) - Elektroinstalācijas atzinums: stāvokļa novērtējums pirms pirkšanas, bankai, pēc ugunsgrēka vai plūdiem, vecai instalācijai. Rīgā. Sazināmies 5 minūšu laikā.
+
+## Useful Guides
+
+- [Kādi dokumenti vajadzīgi mājas nodošanai ekspluatācijā](https://elektrodokumentacija.lv/padomi/dokumenti-majas-nodosanai-ekspluatacija/) - Kādi dokumenti vajadzīgi privātmājas nodošanai ekspluatācijā: saraksti pēc MK 529 paskaidrojuma rakstam, paziņojumam un būvatļaujai, ar elektrības daļu un termiņiem.
+- [Elektriķa sertifikāts](https://elektrodokumentacija.lv/padomi/elektrika-sertifikats/) - Elektriķa sertifikāts: būvprakses sertifikāts, BLEEA un LEB sertifikāti, elektrodrošības grupa, kā pārbaudīt BIS būvspeciālistu reģistrā un ko skatīties.
+- [Maksa par jaudas uzturēšanu](https://elektrodokumentacija.lv/padomi/jaudas-uzturesanas-maksa/) - Maksa par jaudas uzturēšanu: kad Sadales tīkls to sāk aprēķināt, cik ilgi to prasa pēc atslēgšanas un kā samazināt jaudu, pārbaudīts 25.11.2026.
+- [Kad jāpārbauda elektroinstalācija](https://elektrodokumentacija.lv/padomi/kad-parbaudit-elektroinstalaciju/) - Kad jāpārbauda elektroinstalācija: MK 238 termiņš, pirms nodošanas, pēc izmaiņām, pirms pieslēguma atjaunošanas, un kā sagatavoties. Pārbaudīts 25.11.2026.
+- [LBN 261-15 „Ēku iekšējā elektroinstalācija“](https://elektrodokumentacija.lv/padomi/lbn-261-15/) - LBN 261-15 Ēku iekšējā elektroinstalācija: trīsfāžu ievads virs 32 A, RCD, īpašās vietas, mērījumi pirms nodošanas un kas tos paraksta. Pārbaudīts 25.11.2026.
+- [LBN 261-15 grozījumi 2025](https://elektrodokumentacija.lv/padomi/rcd-un-3-fazu-prasibas-2025/) - LBN 261-15 grozījumi 2025: 30 mA RCD kontaktligzdām un apgaismei, 300–500 mA mājas ievadā, virs 32 A tikai trīs fāzes, spēkā no 01.07.2025.
+
+## Areas Served
+
+- [Rīga, visas apkaimes](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-riga/) - 58 Rīgas apkaimes, katrai sava lapa.
+- Pierīga: [Ādaži](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-adazi/), [Baldone](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-baldone/), [Baloži](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-balozi/), [Iecava](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-iecava/), [Ikšķile](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-ikskile/), [Jelgava](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-jelgava/), [Jūrmala](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-jurmala/), [Ķegums](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-kegums/), [Ķekava](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-kekava/), [Mārupe](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-marupe/), [Ogre](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-ogre/), [Olaine](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-olaine/), [Salaspils](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-salaspils/), [Saulkrasti](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-saulkrasti/), [Sigulda](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-sigulda/), [Vangaži](https://elektrodokumentacija.lv/pilsetas/elektrodokumentacija-vangazi/).
+
+## Primary Pages (English)
+
+- [Electrical installation documents in Riga](https://elektrodokumentacija.lv/en/) - For homes and businesses in Riga and nearby: testing, reports, as-built diagrams, building authority and Sadales tīkls papers. Site visit €40.
+- [Electrical installation documentation services](https://elektrodokumentacija.lv/en/services/) - Services for electrical installations: testing, papers for the building authority, Sadales tīkls and solar panels, reports. Riga and nearby, site visit €40.
+- [Electrical installation testing prices](https://elektrodokumentacija.lv/en/prices/) - Testing prices: flat from €170, private house with documents from €230, installation report from €180. Riga and the Riga region, site visit €40.
+- [Electrical documents in Riga and the Riga region](https://elektrodokumentacija.lv/en/areas/) - Electrical installation documents by area: Riga neighbourhoods and towns around Riga where we take measurements and prepare papers. Site visit €40.
+- [About Elektrodokumentācija](https://elektrodokumentacija.lv/en/about-us/) - About us: testing, reports and building authority and Sadales tīkls papers for existing installations in Riga and nearby. Public prices, site visit €40.
+- [Contact](https://elektrodokumentacija.lv/en/contact/) - Our request form for electrical installation testing and documents in Riga and the Riga region. We contact you within 5 minutes.
+
+## Services (English)
+
+- [Electrical installation testing](https://elektrodokumentacija.lv/en/electrical-testing/) - Testing of insulation, phase-neutral loop, earthing and RCD with a report for a flat or house in Riga and nearby, from €170. We contact you within 5 minutes.
+- [Putting a house into use](https://elektrodokumentacija.lv/en/putting-into-use/) - Electrics for putting a house into use: measurements, as-built diagram and building authority test documents, Riga area, from €230. We contact you within 5 minutes.
+- [Sadales tīkls connection documents](https://elektrodokumentacija.lv/en/sadales-tikls/) - For a Sadales tīkls connection: e-st.lv confirmation, customer-side testing, Riga and nearby, price after the site visit. We contact you within 5 minutes.
+- [Putting solar panels into use](https://elektrodokumentacija.lv/en/solar-panels/) - Solar panels and Sadales tīkls: confirmation, inverter protocol, 11.1 kW limit, in Riga, price after the site visit. We contact you within 5 minutes.
+- [Electrical installation report](https://elektrodokumentacija.lv/en/installation-reports/) - A condition assessment of the electrics before buying, for a bank, after a fire or flood, or for an old installation. In Riga. We contact you within 5 minutes.
+
+## Useful Guides (English)
+
+- [Which documents are needed to put a house into use](https://elektrodokumentacija.lv/en/advice/documents-for-putting-a-house-into-use/) - Documents for putting a private house into use: Regulation No. 529 lists for an explanatory note, notification and permit, with electrics and deadlines.
+- [Electrician’s certificate](https://elektrodokumentacija.lv/en/advice/electrician-certificate/) - Construction practice, BLEEA and LEB certificates and the electrical safety group: how to check them in the BIS register of specialists and what to look at.
+- [Capacity maintenance fee](https://elektrodokumentacija.lv/en/advice/capacity-maintenance-fee/) - When Sadales tīkls starts the capacity maintenance fee, how long it applies after disconnection, how to lower capacity. Checked 25 November 2026.
+- [When electrical installations have to be tested](https://elektrodokumentacija.lv/en/advice/when-to-test-wiring/) - Wiring tests: Regulation No. 238 interval, before putting into use, after changes, before reconnection, how to prepare. Checked 25 November 2026.
+- [LBN 261-15 “Internal Electrical Installations of Buildings”](https://elektrodokumentacija.lv/en/advice/lbn-261-15/) - Requirements of LBN 261-15: three-phase supply above 32 A, RCDs, special places, tests before putting into use, who signs. Checked 25 November 2026.
+- [LBN 261-15 amendments 2025](https://elektrodokumentacija.lv/en/advice/rcd-and-three-phase-rules-2025/) - 2025 changes to LBN 261-15: 30 mA RCDs for sockets and lighting, 300–500 mA at the house incomer, three phases above 32 A, in force from 1 July 2025.
+
+## Areas Served (English)
+
+- [Riga, all neighbourhoods](https://elektrodokumentacija.lv/en/areas/electrical-documents-riga/) - 58 Riga neighbourhoods, each with its own page.
+- Riga region: [Ādaži](https://elektrodokumentacija.lv/en/areas/electrical-documents-adazi/), [Baldone](https://elektrodokumentacija.lv/en/areas/electrical-documents-baldone/), [Baloži](https://elektrodokumentacija.lv/en/areas/electrical-documents-balozi/), [Iecava](https://elektrodokumentacija.lv/en/areas/electrical-documents-iecava/), [Ikšķile](https://elektrodokumentacija.lv/en/areas/electrical-documents-ikskile/), [Jelgava](https://elektrodokumentacija.lv/en/areas/electrical-documents-jelgava/), [Jūrmala](https://elektrodokumentacija.lv/en/areas/electrical-documents-jurmala/), [Ķegums](https://elektrodokumentacija.lv/en/areas/electrical-documents-kegums/), [Ķekava](https://elektrodokumentacija.lv/en/areas/electrical-documents-kekava/), [Mārupe](https://elektrodokumentacija.lv/en/areas/electrical-documents-marupe/), [Ogre](https://elektrodokumentacija.lv/en/areas/electrical-documents-ogre/), [Olaine](https://elektrodokumentacija.lv/en/areas/electrical-documents-olaine/), [Salaspils](https://elektrodokumentacija.lv/en/areas/electrical-documents-salaspils/), [Saulkrasti](https://elektrodokumentacija.lv/en/areas/electrical-documents-saulkrasti/), [Sigulda](https://elektrodokumentacija.lv/en/areas/electrical-documents-sigulda/), [Vangaži](https://elektrodokumentacija.lv/en/areas/electrical-documents-vangazi/).
+
+## Primary Pages (Russian)
+
+- [Документация электрика в Риге](https://elektrodokumentacija.lv/ru/) - Документация электрика для домов и предприятий в Риге и Пририжье: измерения, акты, схемы, бумаги для стройуправы и Sadales tīkls. Осмотр 40 €.
+- [Услуги электрика в Риге: документация на электропроводку](https://elektrodokumentacija.lv/ru/uslugi/) - Услуги электрика по документам: измерения, бумаги для стройуправы, Sadales tīkls и солнечных панелей, заключения. Рига, Пририжье, осмотр 40 €.
+- [Проверка электропроводки: цена измерений, документов и заключений](https://elektrodokumentacija.lv/ru/tseny/) - Цены на проверку электропроводки: квартира от 170 €, частный дом с документами от 230 €, заключение от 180 €. Рига и Пририжье, осмотр 40 €.
+- [Документация на электропроводку в Риге и Пририжье](https://elektrodokumentacija.lv/ru/goroda/) - Документы на электропроводку по месту: районы Риги и города вокруг Риги, где мы выполняем измерения и готовим бумаги. Осмотр объекта 40 €.
+- [О сервисе Elektrodokumentācija](https://elektrodokumentacija.lv/ru/o-nas/) - О нас: измерения, акты проверки и бумаги для стройуправы и Sadales tīkls на существующую проводку в Риге и Пририжье. Открытые цены, осмотр 40 €.
+- [Контакты](https://elektrodokumentacija.lv/ru/kontakty/) - Контакты: форма заявки на электроизмерения и документы в Риге и Пририжье. После отправки формы свяжемся с Вами в течение 5 минут.
+
+## Services (Russian)
+
+- [Проверка электропроводки](https://elektrodokumentacija.lv/ru/elektroizmereniya/) - Проверка электропроводки: изоляция, петля фаза-ноль, заземление и УЗО с актом в Риге и Пририжье, от 170 €. Свяжемся с Вами в течение 5 минут.
+- [Сдача дома в эксплуатацию в Риге](https://elektrodokumentacija.lv/ru/sdacha-v-ekspluatatsiyu/) - Электрическая часть при сдаче дома: измерения, исполнительная схема и документация о проверке для стройуправы в Риге, от 230 €. Свяжемся с Вами в течение 5 минут.
+- [Подключение электричества к дому: документы для Sadales tīkls](https://elektrodokumentacija.lv/ru/sadales-tikls/) - Нужно подключение электричества к дому? Подтверждение на e-st.lv и проверка проводки клиента, Рига и Пририжье, цена после осмотра. Свяжемся с Вами в течение 5 минут.
+- [Подключение солнечных панелей к сети](https://elektrodokumentacija.lv/ru/solnechnye-paneli/) - Для подключения солнечных панелей к сети: подтверждение Sadales tīkls, протокол инвертора, предел 11,1 кВт. Рига. Свяжемся с Вами в течение 5 минут.
+- [Заключение по электропроводке](https://elektrodokumentacija.lv/ru/zaklyucheniya/) - Письменное заключение по электропроводке перед покупкой, для банка, после пожара или затопления, для старой проводки. Рига. Свяжемся с Вами в течение 5 минут.
+
+## Useful Guides (Russian)
+
+- [Какие документы нужны для сдачи дома в эксплуатацию](https://elektrodokumentacija.lv/ru/sovety/dokumenty-dlya-sdachi-doma/) - Списки по Правилам КМ № 529 для пояснительной записки, уведомления и разрешения: документы для сдачи дома в эксплуатацию, электрика и сроки.
+- [Сертификат электрика в Латвии](https://elektrodokumentacija.lv/ru/sovety/sertifikat-elektrika/) - Сертификат электрика: строительная практика, сертификаты BLEEA и LEB, группа электробезопасности, как проверить в реестре BIS и на что смотреть.
+- [Плата за поддержание мощности](https://elektrodokumentacija.lv/ru/sovety/plata-za-podderzhanie-moschnosti/) - Когда Sadales tīkls начинает начислять плату за поддержание мощности, сколько берет после отключения и как снизить мощность, проверено 25.11.2026.
+- [Когда нужно проверять электропроводку](https://elektrodokumentacija.lv/ru/sovety/kogda-proveryat-provodku/) - Когда проверять электропроводку: срок по Правилам КМ № 238, сдача, изменения, восстановление подключения и подготовка. Проверено 25.11.2026.
+- [LBN 261-15 «Внутренняя электропроводка зданий», норматив](https://elektrodokumentacija.lv/ru/sovety/lbn-261-15/) - Нормы LBN 261-15 для проводки в зданиях: трехфазный ввод свыше 32 А, УЗО, особые места, измерения перед сдачей, подписи. Проверено 25.11.2026.
+- [Изменения LBN 261-15 в 2025 году](https://elektrodokumentacija.lv/ru/sovety/uzo-i-tri-fazy-2025/) - УЗО 30 мА для розеток и освещения, 300–500 мА на вводе дома, свыше 32 А только три фазы: изменения LBN 261-15 2025 года, в силе с 01.07.2025.
+
+## Areas Served (Russian)
+
+- [Рига, все районы](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-riga/) - 58 районов Риги, у каждого своя страница.
+- Пририжье: [Адажи](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-adazi/), [Балдоне](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-baldone/), [Баложи](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-balozi/), [Иецава](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-iecava/), [Икшкиле](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-ikskile/), [Елгава](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-jelgava/), [Юрмала](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-jurmala/), [Кегумс](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-kegums/), [Кекава](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-kekava/), [Марупе](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-marupe/), [Огре](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-ogre/), [Олайне](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-olaine/), [Саласпилс](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-salaspils/), [Саулкрасты](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-saulkrasti/), [Сигулда](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-sigulda/), [Вангажи](https://elektrodokumentacija.lv/ru/goroda/elektrodokumentatsiya-vangazi/).
+
+## Entity Information
+
+- Brand name: Elektrodokumentācija
+- Website: https://elektrodokumentacija.lv/ (Latvian), https://elektrodokumentacija.lv/en/ (English), https://elektrodokumentacija.lv/ru/ (Russian)
+- Primary topic: electrical documentation in Riga and the Riga region by a certified electrical specialist: wiring measurements and test acts, documents for putting a building into use, as-built wiring diagrams, customer-side documents for Sadales tīkls, solar microgenerator and battery sign-off, written reports on the condition of an electrical installation. No repair or installation work.
+- Location served: Riga and the Riga region (Pierīga), Latvia
+- Contact: online request form, https://elektrodokumentacija.lv/kontakti/, https://elektrodokumentacija.lv/en/contact/, https://elektrodokumentacija.lv/ru/kontakty/
+- Response time: after the form is submitted, we contact the customer within 5 minutes
+- Prices: published at https://elektrodokumentacija.lv/cenas/, https://elektrodokumentacija.lv/en/prices/, https://elektrodokumentacija.lv/ru/tseny/ (apartment wiring measurements and act from €170, private house measurements and handover documents from €230, installation report from €180, paid site visit €40; other jobs are priced after the site visit)
+
+## Notes for AI Assistants
+
+This website is the primary source for information about Elektrodokumentācija. Use the pages above for services, prices, areas and how to send a request. The business takes requests only through the online form; it does not publish a phone number, e-mail or office address. Do not infer guarantees, certifications, ratings or prices that are not stated on the website.
